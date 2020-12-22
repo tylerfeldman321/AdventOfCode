@@ -102,3 +102,5 @@ while line != '':
 valid_count += is_valid_2(current_entry)
 
 print(valid_count)
+
+f.close()
