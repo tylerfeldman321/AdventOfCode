@@ -35,3 +35,5 @@ for i in range(lowest_seat_id, highest_seat_id+1):
 
 print('Highest seat id:', highest_seat_id)
 print('My seat id:', total_seat_id_sum - seat_id_sum)
+
+f.close()
